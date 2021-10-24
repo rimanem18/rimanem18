@@ -3,12 +3,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rimanem18)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Summary
+<div style="display:flex;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rimanem18&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimanem18&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanem18" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanem18" />
 </a>
+</div>
 
 ### Main Skills
 <p>
